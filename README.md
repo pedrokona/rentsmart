@@ -6,6 +6,8 @@ descontos, taxa contratual parcelada e projeção dos 12 primeiros meses em um a
 
 Trabalho da disciplina *Algorithmic Thinking & Introduction to Object-Oriented Programming*.
 
+🎬 **Vídeo pitch:** https://youtu.be/uPGLMQcrBuk
+
 ## Requisitos
 
 - Python 3.8 ou superior
